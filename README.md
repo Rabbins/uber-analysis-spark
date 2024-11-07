@@ -1,6 +1,6 @@
 # Uber Data Analysis Project
 
-## Descripción
+## Descripcitón
 
 Este proyecto tiene como objetivo analizar los datos de Uber utilizando **PySpark** como base de trabajo. El análisis se centrará en explorar y transformar los datos para extraer **insights interesantes** que puedan ser útiles para comprender patrones y tendencias de los servicios de Uber.
 
